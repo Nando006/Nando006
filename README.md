@@ -1,25 +1,26 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernando+Sérgio;Tenho+26+Anos;Estou+Cursando+Engenharia+de+Software;Bem+vindo+Ao+Meu+Perfil+:%29)](https://git.io/typing-svg)
+
+<div>
   
-# Olá, eu me chamo Fernando e sou estudante de programação!
+# ⌛ Estudando para Front-end ⌛
   
 </div>
 
-- 🤔💭 O que estou estudando neste momento?  
-- ⚠️ Estou estudando neste momento = 👑, Pretendo Estudar = 🛒, Já sei um pouco = ✨
-- 🕋 HTML 👑 <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- 🕋 CSS  👑 <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-- 🕋 JavaScript ✨ <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-- 🕋 Python 🛒 <img align="center" alt="Nando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+<div><br>
+ <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+ <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!-- - 🕋 Python 🛒 <img align="center" alt="Nando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+</div>
+ 
 ---
 
 <div align="center">
   <a href="https://github.com/Nando006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
----
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Nando006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ---
