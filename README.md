@@ -6,14 +6,18 @@
   
 # ⌛ Estudando para Front-end ⌛
   
-</div>
+</div><br>
 
-<div><br>
- <img align="center" alt="Nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Nando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
- <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!-- - 🕋 Python 🛒 <img align="center" alt="Nando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-</div>
+### Minhas skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
+
+
+### Estudando no momento:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
  
 ---
 
@@ -37,3 +41,11 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nando006&bg_color=0d1117&color=ffffff&line=4c00ff&point=ff5900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
   </div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitantes 👀</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nando006}/count.svg" /></p> 
+<br>
+</div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
