@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernando+Sérgio;Tenho+26+Anos;Estou+Cursando+Engenharia+de+Software;Bem+vindo+Ao+Meu+Perfil+:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="center">
   
 # ⌛ Estudando para Front-end ⌛
   
