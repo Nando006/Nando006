@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# ⌛ Estudando para Front-end ⌛
+# ⌛ Estudante ⌛
   
 </div><br>
 
