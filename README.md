@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# ⌛ Estudante ⌛
+# 📚 Estudante 📖
   
 </div><br>
 
