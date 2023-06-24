@@ -3,7 +3,7 @@
 # <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nando006&label=Nando006&label=Github%20do%20Nando%20-%20Visitantes&color=cc0443&style=flat" alt="https://github.com/Nando006" /> </p>
 
 ### About Me:
-📝- Fernando Sérgio<br>📝- Cursando Eng. de Software<br>📝- 1º Período<br>📝- Estagiando na [Urbo Soluções em Tecnologia](https://urboplatform.com.br/contato/){target="_blank"}<br>
+📝- Fernando Sérgio<br>📝- Cursando Eng. de Software<br>📝- 1º Período<br>📝- Estagiando na [Urbo Soluções em Tecnologia](https://urboplatform.com.br/contato/)<br>
 
 ### Socials: <!-- Redes Sociais -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nand0Ribeiro/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/knan000/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-ribeiro-a49314245/) 
