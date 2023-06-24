@@ -1,52 +1,34 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c5cfc6&size=35&center=true&vCenter=true&width=1000&lines=Hello+Forasteiro!;Bem+Vindo+Ao+Meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Fernando+Sérgio;Estou+Cursando+Engenharia+de+Software;Bem+vindo+Ao+Meu+Perfil+:%29)](https://git.io/typing-svg)
-
-<div align="center">
-  
-# 📚 Estudante 📖
-  
-</div><br>
-
-### Minhas skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
+# About Me:
+📝- Fernando Sérgio<br>📝- Cursando Eng. de Software<br>📝- 1º Período<br>📝- Estagiando na [Urbo Soluções em Tecnologia](https://urboplatform.com.br/contato/)<br>
 
 
-### Estudando no momento:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
- 
----
+## Socials: <!-- Redes Sociais -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Nand0Ribeiro/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/knan000/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-ribeiro-a49314245/) 
+
+# Hard Skills: <!-- Linguagens que já domino um pouco -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# Studying with more focus on skills: <!-- Estudando com mais foco nas skills -->
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# Studying Skills: <!-- Linguagens que estou estudando -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <div align="center">
-  <a href="https://github.com/Nando006">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nando006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
----
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCK4l784679r31XrC66A2XhA" target="_blank" rel="external"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/knan000/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:contatonando.012@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/fernando-sergio-a49314245/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Nando006FS" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-  
-  <div align="center">
-    
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nando006&bg_color=0d1117&color=ffffff&line=4c00ff&point=ff5900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-  </div>
+# GitHub Stats <!-- Estátisticas do github -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nando006&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=radical&hide_border=false)
 
-  <div align="center">
-<br><p align="centre"><b>Visitantes 👀</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Nando006}/count.svg" /></p> 
-<br>
+## GitHub Trophies <!-- Trófeus do github -->
+![](https://github-profile-trophy.vercel.app/?username=Nando006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### Top Contributed Repo <!-- Repositórios mais contribuídos -->
+![](https://github-contributor-stats.vercel.app/api?username=Nando006&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 </div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c5cfc6&size=35&center=true&vCenter=true&width=1000&lines=Dê+Uma+Olhada+Nos+Meus+Repositórios;Obrigado+Por+Me+Visitar!)](https://git.io/typing-svg)
