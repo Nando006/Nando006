@@ -4,10 +4,10 @@
 
 ##### <!-- Redes Sociais -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nando006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/006Nando/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nando006/) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=tokyonight&hide_border=false)<br/><br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=radical&hide_border=false)<br/><br />
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Nando006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nando006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 #
