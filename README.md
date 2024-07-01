@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nando006&label=Nando006&label=Github%20do%20Nando%20-%20Visitantes&color=cc0443&style=flat" alt="https://github.com/Nando006" /> </p>
 
 ##### <!-- Redes Sociais -->
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Nando006/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/006Nando/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nando006/) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nando006/) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=radical&hide_border=false)<br/><br />
 <div align="center">
   
