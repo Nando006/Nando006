@@ -1,17 +1,66 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=627F93&size=20&center=true&vCenter=true&width=1000&lines=Bem+Vindo+Ao+Meu+Github;Aqui+Podera+Ver+A+Maioria+Dos+Meus+Projetos;Foco+Estudo!)](https://git.io/typing-svg)
-# 
-<p><a href="https://fernandosergio.dev.br/"><strong>Meu portfólio</strong></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nando006&label=Nando006&label=Github%20do%20Nando%20-%20Visitantes&color=cc0443&style=flat" alt="https://github.com/Nando006" /> </p>
+<!-- @format -->
 
-##### <!-- Redes Sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nando006/) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=radical&hide_border=false)<br/><br />
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Nando006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 👋 Olá, eu sou Fernando Sérgio
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4A90E2&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 Sobre Mim
+
+Desenvolvedor focado em criar soluções elegantes e eficientes. Acredito que o
+conhecimento é poder e estou sempre em busca de novos desafios.
+
+<p align="center">
+  <a href="https://fernandosergio.dev.br/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfólio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Nando006/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-#
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nando006&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
-#### <p align="center"> [Dev Docs ☕](https://devdocs.io/) </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=627F93&size=20&center=true&vCenter=true&width=1000&lines=Conhecimento+É+Poder;Vai+Um+Cafezinho+Ai?;Meu+Github+Te+Ajudou?;Me+Siga+No+LinkedIn+😸)](https://git.io/typing-svg)
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nando006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💡 Recursos Úteis
+
+<div align="center">
+  <a href="https://devdocs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/📚_Dev_Docs-FF6B6B?style=for-the-badge&logoColor=white" alt="Dev Docs"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nando006&label=Visitantes&color=4A90E2&style=flat-square" alt="Contador de Visitantes"/>
+  
+  <p><em>"O conhecimento é poder. Compartilhe, aprenda e cresça." ☕</em></p>
+</div>
+
+</div>
