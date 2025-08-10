@@ -16,9 +16,6 @@ Desenvolvedor focado em criar soluções elegantes e eficientes. Acredito que o
 conhecimento é poder e estou sempre em busca de novos desafios.
 
 <p align="center">
-  <a href="https://fernandosergio.dev.br/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfólio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfólio"/>
-  </a>
   <a href="https://www.linkedin.com/in/Nando006/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
