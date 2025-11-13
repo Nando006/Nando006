@@ -13,7 +13,6 @@ I'm a developer focused on crafting elegant and efficient solutions. Passionate 
 </a>
 </p>
 
-📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
